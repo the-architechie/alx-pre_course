@@ -1,1 +1,1 @@
-Git foundations
+Git foundational projects
